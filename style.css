@@ -1,0 +1,27 @@
+#div1 {
+	background-color: black;
+	border-style: dashed;
+	border-color: #d80000;
+	margin-right:900px;
+	font-family: Verdana;
+	border-width: 3px;
+}
+#div2 {
+	margin-left: 30px;
+	width: 500px;
+	color: blue;
+	border-top: 5px solid;
+	border-left: 5px solid;
+	border-color: blue;
+	margin-right:900px;
+	padding-left: 10px;
+}
+	
+#div3 {
+	background-color: yellow;
+	color: green;
+	border:5px solid;
+	margin-left: 15px;
+	padding: 30px 30px 30px 30px;
+	width: 500px;
+}
